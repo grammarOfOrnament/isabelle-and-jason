@@ -1,0 +1,31 @@
+
+
+.text-ourTerracota{
+    color: #D17C52;
+}
+
+#hero .bg-ourTerracota{
+    background-color: #D17C52;
+}
+
+#hero .bg-ourTerracota:hover{
+    background-color: #a15e3d;
+}
+
+#hero h1{
+    line-height: 3.5rem;
+}
+
+@media only screen and (max-width: 600px) {
+    #hero h1{
+        line-height: 2.5rem;
+    }
+  }
+
+.text-ourMutedGreen{
+    color: #677E71;
+}
+
+.itemGiftVisitorList{
+    border-radius: 8px !important;
+}
